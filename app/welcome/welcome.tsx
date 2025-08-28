@@ -181,6 +181,7 @@ export function Welcome() {
                 ? 'bg-gray-800 hover:bg-gray-700' 
                 : 'bg-gray-100 hover:bg-gray-200'
             }`}
+            
             aria-label="Toggle dark mode"
           >
             {isDarkMode ? (
